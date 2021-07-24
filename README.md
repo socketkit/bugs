@@ -1,3 +1,4 @@
-# socketkit bugs
+# Socketkit
 
-This repository includes bug reports from socketkit.com and web.socketkit.com
+This repository is the general repository for information shared between
+all projects.  It includes bug reports from socketkit.com.
